@@ -37,21 +37,21 @@ This project was developed as part of **IE 7615: Neural Network and Deep Learnin
 
 ## **Results & Insights**
 
--✅ **CNN Model**: Achieved 99% training accuracy and 95% validation accuracy.
--✅ **Image Augmentation**: Improved generalization, resulting in 97% training accuracy and 95% test accuracy.
--✅ **Transfer Learning**:
--VGG19: 99% training accuracy, 98% validation accuracy.
--ResNet50: 95% training accuracy, 94% validation accuracy.
--🏆 **Best Model**: VGG19 with 94.12% detection accuracy after hyperparameter tuning.
+- ✅ **CNN Model**: Achieved 99% training accuracy and 95% validation accuracy.
+- ✅ **Image Augmentation**: Improved generalization, resulting in 97% training accuracy and 95% test accuracy.
+- ✅ **Transfer Learning**:
+     - VGG19: 99% training accuracy, 98% validation accuracy.
+     - ResNet50: 95% training accuracy, 94% validation accuracy.
+     - 🏆 **Best Model**: VGG19 with 94.12% detection accuracy after hyperparameter tuning.
 
 ## **Future Work & Improvements**
 
--🔬 Integration with Medical Diagnosis Pipelines.
--📊 Testing on Larger and More Diverse Datasets.
--🧐 Implementation of Explainable AI (XAI) Techniques for better model interpretability.
--🌐 Deployment as a Web or Mobile Application for real-world accessibility.
+- 🔬 Integration with Medical Diagnosis Pipelines.
+- 📊 Testing on Larger and More Diverse Datasets.
+- 🧐 Implementation of Explainable AI (XAI) Techniques for better model interpretability.
+- 🌐 Deployment as a Web or Mobile Application for real-world accessibility.
 
 ## **Contributions & Contact**
--💡 Contributions are welcome! Feel free to fork the repository and submit pull requests.
+- 💡 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 For any queries, contact Aditya Velapurkar at adityavelapurkar1002@gmail.com.
